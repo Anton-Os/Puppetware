@@ -1,0 +1,6 @@
+[submodule "Topl"]
+	path = Topl
+	url = https://github.com/Anton-Os/Topl.git
+[submodule "Rasteron"]
+	path = Rasteron
+	url = https://github.com/Anton-Os/Rasteron.git
