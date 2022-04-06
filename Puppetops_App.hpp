@@ -1,8 +1,8 @@
 #include "Topl_App.hpp"
 
-struct PixelPuppets_App : public Topl_App {
-    PixelPuppets_App(const char* execPath, APP_Backend b)
-        : Topl_App(execPath, "PixelPuppets", b){}
+struct Puppetops_App : public Topl_App {
+    Puppetops_App(const char* execPath, APP_Backend b)
+        : Topl_App(execPath, "Puppetops", b){}
 
     void init() override;
 	void loop(unsigned long frame) override;

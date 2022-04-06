@@ -1,11 +1,11 @@
-#include "PixelPuppets_App.hpp"
+#include "Puppetops_App.hpp"
 
-void PixelPuppets_App::init(){
+void Puppetops_App::init(){
     // Implement shader loading
     // Implement geometry objects
     // Implement scene setup
 }
 
-void PixelPuppets_App::loop(unsigned long frame){
+void Puppetops_App::loop(unsigned long frame){
     // Implement game loop and updates
 }
