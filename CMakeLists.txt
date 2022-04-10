@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.7)
-project(Puppetops)
+project(Puppetware)
 
 add_subdirectory(Rasteron)
 add_subdirectory(Topl)
 
-add_executable(Puppetops Puppetops_App.cpp)
-# target_link_libraries(Puppetops Rasteron )
+add_executable(Puppetware Puppetware_App.cpp)
+# target_link_libraries(Puppetware Rasteron )
